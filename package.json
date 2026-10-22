@@ -1,0 +1,25 @@
+{
+  "name": "gaslight-ngo-crm",
+  "version": "1.0.0",
+  "description": "A beginner-friendly, semi-professional Google Sheets CRM for NGOs using Google Apps Script and TypeScript",
+  "main": "src/index.ts",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "push": "clasp push -f",
+    "watch": "clasp push --watch"
+  },
+  "keywords": [
+    "google-apps-script",
+    "crm",
+    "typescript",
+    "sheets",
+    "ngo"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@google/clasp": "^2.4.2",
+    "@types/google-apps-script": "^1.0.83",
+    "typescript": "^5.4.5"
+  }
+}

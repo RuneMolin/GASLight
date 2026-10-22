@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "None",
+    "lib": ["ES2020"],
+    "strict": true,
+    "noImplicitAny": true,
+    "experimentalDecorators": true,
+    "noLib": false,
+    "skipLibCheck": true,
+    "types": ["google-apps-script"]
+  },
+  "include": ["src/**/*"]
+}

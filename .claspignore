@@ -1,0 +1,6 @@
+# Ignore hidden files
+.*
+# Ignore documentation and tests
+**/*.md
+**/*.test.ts
+**/*.spec.ts

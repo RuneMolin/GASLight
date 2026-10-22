@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# Clasp authentication tokens & secrets
+.clasprc.json
+
+# Build and OS files
+.DS_Store
+Thumbs.db
